@@ -1,0 +1,16 @@
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.exe.config
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.exe
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.pdb
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\bin\Debug\SistemaRecursosHumanos.xml
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.vbproj.AssemblyReference.cache
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.Form1.resources
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.Resources.resources
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.vbproj.GenerateResource.cache
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.vbproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.exe
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.xml
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.pdb
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.Form2.resources
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.Form3.resources
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.Form4.resources
+C:\Users\hugov\source\repos\SistemaRecursosHumanos\SistemaRecursosHumanos\obj\Debug\SistemaRecursosHumanos.Form5.resources
